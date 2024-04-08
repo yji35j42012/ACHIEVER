@@ -155,6 +155,7 @@
     font-size: 32px;
     font-weight: bold;
     margin-bottom: 15px;
+    color: #006f5f;
 }
 
 .action_img .action_l .pa2 {
@@ -341,7 +342,7 @@
 
 .yu_cpzh {
     width: 100%;
-    align-items: center;
+    align-items: flex-start;
 }
 
 .yu_cpzh a {
